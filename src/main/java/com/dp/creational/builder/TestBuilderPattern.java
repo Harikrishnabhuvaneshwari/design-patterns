@@ -1,4 +1,4 @@
-package src.main.java.com.dp.creational.builder;
+package com.dp.creational.builder;
 
 public class TestBuilderPattern {
     public static void main(String[] args) {
