@@ -1,0 +1,20 @@
+Ref : https://springframework.guru/gang-of-four-design-patterns/adapter-pattern/
+
+Adapter Pattern
+“Convert the interface of a class into another interface clients expect. Adapter lets classes work together that
+couldn’t otherwise because of incompatible interfaces.”
+
+Design Patterns: Elements of Reusable Object-Oriented Software
+
+Adapter Pattern: Introduction
+We use adapters in our daily lives.
+The moment you plug in your mobile handset or your laptop to a socket for charging, an adapter is at work.
+What the adapter does is makes the socket that produces 120 V (or 220 V for European standard)
+and the mobile device that requires 4 V work together.
+Similarly, by using the adapter pattern in the programming world, you can make incompatible interfaces work together.
+
+
+The adapter pattern is one of the classic Gang of Four structural patterns –
+A set of patterns whose objective is to identify how to realize relationships between classes and objects in a simple way.
+This pattern is typically used when an incompatible module needs to be integrated with an existing module without making
+any source code modifications.
