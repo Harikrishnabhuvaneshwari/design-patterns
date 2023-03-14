@@ -1,0 +1,8 @@
+Ref : https://springframework.guru/gang-of-four-design-patterns/prototype-pattern/
+
+Prototype Pattern
+“Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype.”
+
+Points to keep in mind:
+    1. Shallow copy vs Deep copy.
+    2. When to use shallow copy & when to use deep copy.
